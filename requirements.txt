@@ -1,0 +1,9 @@
+# Python 3.10 / 3.11
+numpy<2
+torch
+openai-whisper>=20231117
+opencv-python
+easyocr
+openai>=1.30
+python-dotenv
+# FFmpeg is a system program, not a pip package (see README)

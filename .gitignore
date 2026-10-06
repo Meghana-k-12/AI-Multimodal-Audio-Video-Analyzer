@@ -1,0 +1,8 @@
+.venv/
+.env
+outputs/
+temp/
+*.mp4
+*.mp3
+__pycache__/
+*.pycg
